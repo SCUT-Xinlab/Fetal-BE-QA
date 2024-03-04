@@ -1,4 +1,4 @@
-# Fetal_BE_QA
+# Fetal-BE-QA
 Code of the proposed framework of our work "[A joint brain extraction and image quality assessment framework for fetal brain MRI slices](https://doi.org/10.1016/j.neuroimage.2024.120560)" published in *NeuroImage*.
 
 In this work, we propose a novel two-stage dual-task deep learning framework with a brain localization stage and a dual-task stage for joint brain extraction and quality assessment of fetal MRI slices.
