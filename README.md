@@ -10,11 +10,13 @@ The code is coming soon.
 If you find this repository useful, please consider citing the following papers:
 
 ```bibtex
-@article{zhang2024ajoint,
+@article{zhang2024joint,
   title={A joint brain extraction and image quality assessment framework for fetal brain MRI slices},
   author={Wenhao Zhang and Xin Zhang and Lingyi Li and Lufan Liao and Fenqiang Zhao and Tao Zhong and Yuchen Pei and Xiangmin Xu and Chaoxiang Yang and He Zhang and Gang Li},
-  journal = {NeuroImage},
-  year = {2024},
+  journal={NeuroImage},
+  volume={290},
+  pages={120560},
+  year={2024},
   doi={10.1016/j.neuroimage.2024.120560}
 }
 
